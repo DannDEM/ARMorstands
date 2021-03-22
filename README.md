@@ -1,4 +1,4 @@
-# ARMorstands
+# ARMor Stands
 This Minecraft Data Pack adds arms to armor stands.
 They don't have this in java edition so I made a data pack that adds arms to armor stands in minecraft.
 # Instructions
